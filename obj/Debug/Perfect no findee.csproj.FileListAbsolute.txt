@@ -1,0 +1,8 @@
+F:\vs\Perfect no findee\Perfect no findee\bin\Debug\Perfect no findee.exe.config
+F:\vs\Perfect no findee\Perfect no findee\bin\Debug\Perfect no findee.exe
+F:\vs\Perfect no findee\Perfect no findee\bin\Debug\Perfect no findee.pdb
+F:\vs\Perfect no findee\Perfect no findee\obj\Debug\Perfect no findee.csproj.AssemblyReference.cache
+F:\vs\Perfect no findee\Perfect no findee\obj\Debug\Perfect no findee.csproj.SuggestedBindingRedirects.cache
+F:\vs\Perfect no findee\Perfect no findee\obj\Debug\Perfect no findee.csproj.CoreCompileInputs.cache
+F:\vs\Perfect no findee\Perfect no findee\obj\Debug\Perfect no findee.exe
+F:\vs\Perfect no findee\Perfect no findee\obj\Debug\Perfect no findee.pdb
